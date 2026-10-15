@@ -2,8 +2,8 @@
   PALETA DE COLORES
 ======================================*/
 :root {
-    --color-primario: #5b5ff5;
-    --color-secundario: #ff8f70;
+    --color-primario: #5b8cf5;
+    --color-secundario: #f5ff70;
 }
 
 /*======================================
@@ -62,7 +62,7 @@ body {
         0 0 10px rgba(255,255,255,.5),
         0 0 30px rgba(255,255,255,.3);
 
-    animation: flotar 3s ease-in-out infinite;
+    animation: flotar 0.00001s ease-in-out infinite;
 }
 
 .hero p {
